@@ -1,0 +1,20 @@
+body {
+    background-color: #b2a59c;
+    font-family: 'Comfortaa', cursive;
+    color:#5c554f ;
+}
+
+.heading {
+width: 80%;
+height: 50px;
+font-size: 22px;
+font-weight: bold;
+letter-spacing: 3px;
+padding-top: 10px;
+}
+
+#cammera,#result {
+border: 2px dotted #5c554f;
+width: 315px;
+height: 300px;
+}
